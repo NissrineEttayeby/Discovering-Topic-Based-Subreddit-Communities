@@ -16,14 +16,13 @@ Reddit hosts an immense amount of diverse content spanning numerous topics, maki
 - **Intuitive Visualization**: Creating a visual representation of the identified communities using NetworkX, enabling users to grasp the relationships between subreddits and authors effortlessly.
 - **Evaluation of the Effectiveness of Techniques Used**: Assessing the performance of chosen community detection and topic modeling techniques to ensure the reliability of results.
 
-## Clone the repo
+##  Repository
 
 **Clone the Repository**: Clone this GitHub repository to your local machine.
    ```bash
    git clone https://github.com/NissrineEttayeby/Discovering-Topic-Based-Subreddit-Communities.git
    ```
-
-4. **Explore the Results**: Once the analysis is complete, explore the generated visualizations and insights to discover topic-based subreddit communities.
+**Explore the Results**: Once the analysis is complete, explore the generated visualizations and insights to discover topic-based subreddit communities.
 
 ## Contributing
 
